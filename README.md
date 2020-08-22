@@ -7,5 +7,6 @@ Thanks in advance!
 
 I've used:
 HTML, CSS, JAVASCRIPT and JSON (API)
+
 IDE: JetBrains Webstorm 2020.2
     
